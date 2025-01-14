@@ -117,4 +117,5 @@ Employs Tailwind CSS classes to style the component, providing a responsive and 
 
 The CryptoSidebar component is an integral part of a cryptocurrency-related application. It fetches and presents real-time data for the top cryptocurrencies, including market cap, and indicates whether each cryptocurrency is in profit or loss through icons and text. Its integration with Redux ensures data consistency and responsiveness, offering users valuable insights into the cryptocurrency market.
 #   c r y p t o - d a s h b o a r d  
+ #   c r y p t o - d a s h b o a r d  
  
